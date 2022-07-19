@@ -1,0 +1,1 @@
+This is JS application used to send email directlly to a gmail account.
